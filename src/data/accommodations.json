@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "The New J-Cottage Coffee & Camping Ground",
+    "slug": "the-new-j-cottage-coffee-camping-ground",
+    "type": "Penginapan",
+    "address": "Desa Tempur",
+    "zone": "Tempur",
+    "priceRange": "Hubungi Pengelola",
+    "priceMin": 100000,
+    "facilities": [
+      "Kamar Nyaman",
+      "Kamar Mandi"
+    ],
+    "description": "Penginapan The New J-Cottage Coffee & Camping Ground di Desa Tempur dengan suasana asri.",
+    "contact": "-",
+    "distanceToCenter": "-",
+    "rooms": 1,
+    "image": "/images/accommodations/default.png",
+    "coordinates": [-6.600835997501542, 110.88345689753612
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Priggle Homestay",
+    "slug": "priggle-homestay",
+    "type": "Penginapan",
+    "address": "Desa Tempur",
+    "zone": "Tempur",
+    "priceRange": "Hubungi Pengelola",
+    "priceMin": 100000,
+    "facilities": [
+      "Kamar Nyaman",
+      "Kamar Mandi"
+    ],
+    "description": "Penginapan Priggle Homestay di Desa Tempur dengan suasana asri.",
+    "contact": "-",
+    "distanceToCenter": "-",
+    "rooms": 1,
+    "image": "/images/accommodations/default.png",
+    "coordinates": [-6.597101548096562, 110.88598850108328
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kafe Kebon",
+    "slug": "kafe-kebon",
+    "type": "Penginapan",
+    "address": "Desa Tempur",
+    "zone": "Tempur",
+    "priceRange": "Hubungi Pengelola",
+    "priceMin": 100000,
+    "facilities": [
+      "Kamar Nyaman",
+      "Kamar Mandi"
+    ],
+    "description": "Penginapan Kafe Kebon di Desa Tempur dengan suasana asri.",
+    "contact": "-",
+    "distanceToCenter": "-",
+    "rooms": 1,
+    "image": "/images/accommodations/default.png",
+    "coordinates": [-6.596871807132176, 110.88692935412875
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Goedang Roso",
+    "slug": "goedang-roso",
+    "type": "Penginapan",
+    "address": "Desa Tempur",
+    "zone": "Tempur",
+    "priceRange": "Hubungi Pengelola",
+    "priceMin": 100000,
+    "facilities": [
+      "Kamar Nyaman",
+      "Kamar Mandi"
+    ],
+    "description": "Penginapan Gudang Roso di Desa Tempur dengan suasana asri.",
+    "contact": "-",
+    "distanceToCenter": "-",
+    "rooms": 1,
+    "image": "/images/accommodations/default.png",
+    "coordinates": [-6.59674143320666, 110.88565768974414
+    ]
+  }
+]

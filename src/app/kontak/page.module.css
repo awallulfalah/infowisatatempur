@@ -1,0 +1,84 @@
+.pageHeader { position: relative; min-height: 50vh; display: flex; align-items: flex-end; padding: 0 0 3rem; }
+.headerBg { position: absolute; inset: 0; }
+.headerOverlay { position: absolute; inset: 0; z-index: 1; background: linear-gradient(to top, rgba(13,31,23,0.85) 0%, rgba(13,31,23,0.4) 60%, rgba(13,31,23,0.2) 100%); }
+.headerContent { position: relative; z-index: 2; max-width: 1280px; margin: 0 auto; padding: 0 2rem; width: 100%; }
+.headerLabel { display: inline-block; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-gold-300); margin-bottom: 0.75rem; }
+.headerTitle { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 4vw, 3.5rem); color: var(--color-ivory-100); margin-bottom: 0.75rem; }
+.headerSubtitle { font-size: 1.05rem; color: var(--color-ivory-300); max-width: 600px; line-height: 1.6; margin: 0; }
+
+/* Routes */
+.routesSection { background: var(--color-ivory-100); }
+
+.routesGrid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
+
+.routeCard {
+  background: white; border-radius: 12px; padding: 1.75rem; border: 1px solid var(--color-ivory-400);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04); transition: all 0.3s ease;
+}
+.routeCard:hover { transform: translateY(-4px); box-shadow: 0 12px 30px rgba(0,0,0,0.08); }
+
+.routeHeader { display: flex; gap: 1rem; align-items: center; margin-bottom: 1rem; }
+.routeIcon { font-size: 2rem; width: 52px; height: 52px; display: flex; align-items: center; justify-content: center; background: var(--color-forest-50); border-radius: 12px; }
+.routeFrom { font-family: 'Playfair Display', serif; font-size: 1.15rem; color: var(--color-forest-800); margin: 0 0 0.25rem; }
+.routeStats { display: flex; gap: 1rem; font-size: 0.8rem; color: var(--color-coffee-300); }
+
+.routePath {
+  padding: 0.6rem 0.85rem; background: var(--color-ivory-200); border-radius: 8px; margin-bottom: 1rem;
+  font-size: 0.85rem; color: var(--color-coffee-500); display: flex; gap: 0.5rem;
+}
+.routeLabel { font-weight: 600; color: var(--color-gold-600); }
+
+.routeDetail { font-size: 0.85rem; color: var(--color-coffee-400); line-height: 1.6; margin: 0; }
+
+/* Contact */
+.contactSection { background: white; }
+
+.contactGrid { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start; }
+
+.contactTitle { font-size: clamp(1.3rem, 2vw, 1.75rem); color: var(--color-forest-800); margin-bottom: 1rem; }
+
+.contactCards { display: flex; flex-direction: column; gap: 1rem; margin-top: 1.5rem; }
+
+.contactCard {
+  display: flex; gap: 1rem; padding: 1rem; border-radius: 10px; border: 1px solid var(--color-ivory-400); background: var(--color-ivory-100);
+}
+.contactCard span:first-child { font-size: 1.5rem; flex-shrink: 0; }
+.contactCard strong { display: block; font-size: 0.85rem; color: var(--color-forest-800); margin-bottom: 0.25rem; }
+.contactCard p { font-size: 0.85rem; color: var(--color-coffee-400); margin: 0; line-height: 1.5; }
+
+.socialLinks { display: flex; gap: 0.75rem; margin-top: 1.5rem; flex-wrap: wrap; }
+.socialBtn {
+  padding: 0.6rem 1.25rem; border-radius: 8px; background: var(--color-forest-700); color: white;
+  font-size: 0.85rem; font-weight: 500; text-decoration: none; transition: all 0.2s ease;
+}
+.socialBtn:hover { background: var(--color-forest-600); transform: translateY(-2px); }
+
+/* Form */
+.formWrapper {
+  background: var(--color-ivory-100); border-radius: 16px; padding: 2rem; border: 1px solid var(--color-ivory-400);
+}
+.formTitle { font-family: 'Playfair Display', serif; font-size: 1.3rem; color: var(--color-forest-800); margin-bottom: 0.5rem; }
+.formDesc { font-size: 0.9rem; color: var(--color-coffee-400); margin-bottom: 1.5rem; }
+
+.form { display: flex; flex-direction: column; gap: 1.25rem; }
+
+.formGroup { display: flex; flex-direction: column; gap: 0.4rem; }
+.formGroup label { font-size: 0.85rem; font-weight: 600; color: var(--color-forest-800); }
+.formGroup input, .formGroup textarea {
+  padding: 0.75rem 1rem; border: 1px solid var(--color-ivory-400); border-radius: 8px;
+  font-size: 0.95rem; background: white; transition: border-color 0.2s;
+}
+.formGroup input:focus, .formGroup textarea:focus { outline: none; border-color: var(--color-gold-400); box-shadow: 0 0 0 3px rgba(201,168,76,0.1); }
+
+/* Map */
+.mapSection { background: var(--color-ivory-100); }
+
+@media (max-width: 1024px) {
+  .routesGrid { grid-template-columns: 1fr; max-width: 600px; margin: 0 auto; }
+  .contactGrid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 640px) {
+  .pageHeader { min-height: 40vh; }
+  .headerContent { padding: 0 1rem; }
+}

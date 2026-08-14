@@ -1,0 +1,106 @@
+.section {
+  padding: 5rem 0;
+  background: var(--color-forest-900);
+}
+
+.section .sectionHeader h2,
+.section h2 {
+  color: var(--color-ivory-100);
+}
+
+.testimonialCard {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2.5rem;
+  animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.quoteIcon {
+  font-family: 'Playfair Display', serif;
+  font-size: 5rem;
+  color: var(--color-gold-400);
+  line-height: 1;
+  margin-bottom: -1rem;
+  opacity: 0.5;
+}
+
+.stars {
+  display: flex;
+  justify-content: center;
+  gap: 0.25rem;
+  margin-bottom: 1.25rem;
+  font-size: 1rem;
+}
+
+.quote {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--color-ivory-300);
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.avatar {
+  font-size: 2rem;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 50%;
+  border: 2px solid var(--color-gold-400);
+}
+
+.authorName {
+  display: block;
+  color: var(--color-ivory-100);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.authorOrigin {
+  font-size: 0.8rem;
+  color: var(--color-gold-400);
+}
+
+.dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 0;
+}
+
+.dot:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.dotActive {
+  background: var(--color-gold-400);
+  width: 28px;
+  border-radius: 5px;
+}

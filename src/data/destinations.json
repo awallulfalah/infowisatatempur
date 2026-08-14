@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "Puncak 29",
+    "slug": "puncak-29",
+    "zone": "Tempur",
+    "category": "alam",
+    "shortDesc": "Destinasi wisata Puncak 29 di Desa Tempur.",
+    "description": [
+      "Deskripsi lengkap untuk Puncak 29 sedang dalam pengembangan."
+    ],
+    "image": "/images/destinations/puncak 29.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Menyesuaikan",
+    "tips": "",
+    "coordinates": [-6.616204615925583, 110.89030653248312
+    ],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "The New J-Cottage Coffee & Camping Ground",
+    "slug": "the-new-j-cottage-coffee-camping-ground",
+    "zone": "Guagah",
+    "category": "kuliner-kopi",
+    "shortDesc": "J-Cottage merupakan destinasi wisata di Desa Tempur yang memadukan coffee shop, cottage, dan camping ground dengan pemandangan indah Lereng Gunung Muria serta hamparan persawahan.",
+    "description": [
+      "J-Cottage merupakan destinasi wisata terpadu di Desa Tempur, Kecamatan Keling, Kabupaten Jepara yang memadukan konsep coffee shop, penginapan, dan camping ground. Beroperasi sejak 2019, tempat ini menjadi salah satu daya tarik utama bagi wisatawan yang ingin menikmati suasana alam pegunungan Lereng Gunung Muria serta panorama hamparan sawah yang asri. Desain kawasannya dirancang menyatu dengan lingkungan sekitar, sehingga hampir setiap sudut lokasi ini dapat dimanfaatkan sebagai area bersantai sekaligus spot foto yang estetik. Selain itu, lokasinya yang strategis di kawasan pegunungan menjadikan J-Cottage sebagai titik singgah yang ideal bagi para wisatawan yang sedang menjelajahi potensi wisata alam di kawasan Desa Tempur dan sekitarnya.",
+      "Pengunjung J-Cottage dapat menikmati beragam aktivitas wisata menarik, mulai dari sekadar bersantai dan bersantap di coffee shop, berkumpul bersama keluarga, hingga menyelengggarakan kegiatan outbound dan gathering. Bagi wisatawan yang ingin bermalam, J-Cottage menyediakan fasilitas penginapan berkonsep cottage, camping ground, fasilitas campervan, hingga pilihan glamping seperti tipe Glamping Safari yang mampu menampung hingga 6 orang. Pengunjung yang berencana untuk menginap atau menggunakan fasilitas berkemah disarankan untuk mengonfirmasi tarif serta ketersediaan unit terbaru secara langsung kepada pihak pengelola melalui media sosial resmi J-Cottage sebelum melakukan kunjungan."
+    ],
+    "image": "/images/destinations/j-cottage.png",
+    "gallery": [],
+    "hours": "Senin-Minggu: 09.00\u201321.00 WIB",
+    "price": "Menu: Rp5.000\u2013Rp28.000 | Penginapan: mulai Rp250.000 | camping ground : mulai Rp150.000 ",
+    "tips": "Waktu terbaik: Pagi (07.00\u201310.00) dan Sore (15.00\u201318.00). Bawa jaket, gunakan alas kaki nyaman, bawa uang tunai, dan jika ingin glamping/cottage sebaiknya reservasi lebih dulu.",
+    "coordinates": [
+      -6.600707542441749,
+      110.88342370173933
+    ],
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Situs Batu Yoni",
+    "slug": "situs-batu-yoni",
+    "zone": "Tempur",
+    "category": "sejarah",
+    "shortDesc": "Destinasi wisata Situs Batu Yoni di Desa Tempur.",
+    "description": [
+      "Deskripsi lengkap untuk Situs Batu Yoni sedang dalam pengembangan."
+    ],
+    "image": "/images/destinations/batu yoni.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Menyesuaikan",
+    "tips": "",
+    "coordinates": [-6.5909700480795825, 110.89875023735587
+    ],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Puncak Tunggangan",
+    "slug": "puncak-tunggangan",
+    "zone": "Tempur",
+    "category": "alam",
+    "shortDesc": "Destinasi wisata Puncak Tunggangan di Desa Tempur.",
+    "description": [
+      "Deskripsi lengkap untuk Puncak Tunggangan sedang dalam pengembangan."
+    ],
+    "image": "/images/destinations/default.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Menyesuaikan",
+    "tips": "",
+    "coordinates": [-6.618778845061978, 110.88123186640195
+    ],
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "Gadjah Mungkur",
+    "slug": "gadjah-mungkur",
+    "zone": "Tempur",
+    "category": "alam",
+    "shortDesc": "Destinasi wisata Gadjah Mungkur di Desa Tempur.",
+    "description": [
+      "Deskripsi lengkap untuk Gadjah Mungkur sedang dalam pengembangan."
+    ],
+    "image": "/images/destinations/default.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Menyesuaikan",
+    "tips": "",
+    "coordinates": [-6.587428215216436, 110.87305625797342
+    ],
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Candi Angin",
+    "slug": "candi-angin",
+    "zone": "Tempur",
+    "category": "sejarah",
+    "shortDesc": "Destinasi wisata Candi Angin di Desa Tempur.",
+    "description": [
+      "Deskripsi lengkap untuk Candi Angin sedang dalam pengembangan."
+    ],
+    "image": "/images/destinations/default.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Menyesuaikan",
+    "tips": "",
+    "coordinates": [-6.60536317731308, 110.86402498040741
+    ],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Masjid Gereja",
+    "slug": "masjid-gereja",
+    "zone": "Tempur",
+    "category": "sejarah",
+    "shortDesc": "Destinasi wisata Masjid Gereja di Desa Tempur.",
+    "description": [
+      "Deskripsi lengkap untuk Masjid Gereja sedang dalam pengembangan."
+    ],
+    "image": "/images/destinations/default.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Menyesuaikan",
+    "tips": "",
+    "coordinates": [-6.597506116643645, 110.89184976640642
+    ],
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Petilasan Mbah Kamunoyoso",
+    "slug": "petilasan-mbah-kamunoyoso",
+    "zone": "Tempur",
+    "category": "sejarah",
+    "shortDesc": "Destinasi wisata Petilasan Mbah Kamunoyoso di Desa Tempur.",
+    "description": [
+      "Deskripsi lengkap untuk Petilasan Mbah Kamunoyoso sedang dalam pengembangan."
+    ],
+    "image": "/images/destinations/default.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Menyesuaikan",
+    "tips": "",
+    "coordinates": [-6.597577167472485, 110.89199923765378
+    ],
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Kampong Kopi",
+    "slug": "kampong-kopi",
+    "zone": "Tempur",
+    "category": "kuliner-kopi",
+    "shortDesc": "Destinasi wisata Kampong Kopi di Desa Tempur.",
+    "description": [
+      "Deskripsi lengkap untuk Kampong Kopi sedang dalam pengembangan."
+    ],
+    "image": "/images/destinations/default.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Menyesuaikan",
+    "tips": "",
+    "coordinates": [-6.596393163898101, 110.88921463187171
+    ],
+    "featured": false
+  },
+  {
+    "id": 11,
+    "name": "Kafe Kebon",
+    "slug": "kafe-kebon",
+    "zone": "Tempur",
+    "category": "kuliner-kopi",
+    "shortDesc": "Destinasi wisata Kafe Kebon di Desa Tempur.",
+    "description": [
+      "Deskripsi lengkap untuk Kafe Kebon sedang dalam pengembangan."
+    ],
+    "image": "/images/destinations/default.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Menyesuaikan",
+    "tips": "",
+    "coordinates": [-6.596874462367172, 110.88695547058198
+    ],
+    "featured": false
+  },
+  {
+    "id": 12,
+    "name": "Ndank Kopi",
+    "slug": "ndank-kopi",
+    "zone": "Tempur",
+    "category": "kuliner-kopi",
+    "shortDesc": "Tempat kuliner Ndank Kopi di Desa Tempur menyajikan berbagai hidangan lezat.",
+    "description": [
+      "Tempat kuliner Ndank Kopi di Desa Tempur menyajikan berbagai hidangan lezat."
+    ],
+    "image": "/images/culinary/default.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Rp 10.000 - Rp 50.000",
+    "tips": "",
+    "coordinates": [-6.5903130849905915, 110.90224565954571
+    ],
+    "featured": false
+  },
+  {
+    "id": 15,
+    "name": "Aren Sewu",
+    "slug": "aren-sewu",
+    "zone": "Tempur",
+    "category": "kuliner-kopi",
+    "shortDesc": "Tempat kuliner Aren Sewu di Desa Tempur menyajikan berbagai hidangan lezat.",
+    "description": [
+      "Tempat kuliner Aren Sewu di Desa Tempur menyajikan berbagai hidangan lezat."
+    ],
+    "image": "/images/culinary/default.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Rp 10.000 - Rp 50.000",
+    "tips": "",
+    "coordinates": [-6.601291824308924, 110.88264386466132
+    ],
+    "featured": false
+  },
+  {
+    "id": 16,
+    "name": "Mountaint Coffe",
+    "slug": "mountaint-coffe",
+    "zone": "Tempur",
+    "category": "kuliner-kopi",
+    "shortDesc": "Tempat kuliner Mountaint Coffe di Desa Tempur menyajikan berbagai hidangan lezat.",
+    "description": [
+      "Tempat kuliner Mountaint Coffe di Desa Tempur menyajikan berbagai hidangan lezat."
+    ],
+    "image": "/images/culinary/default.png",
+    "gallery": [],
+    "hours": "Buka Setiap Hari",
+    "price": "Rp 10.000 - Rp 50.000",
+    "tips": "",
+    "coordinates": [-6.593675257810075, 110.90001697245188
+    ],
+    "featured": false
+  }
+]

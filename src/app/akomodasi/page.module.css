@@ -1,0 +1,13 @@
+.pageHeader { position: relative; min-height: 50vh; display: flex; align-items: flex-end; padding: 0 0 3rem; }
+.headerBg { position: absolute; inset: 0; }
+.headerOverlay { position: absolute; inset: 0; z-index: 1; background: linear-gradient(to top, rgba(13,31,23,0.85) 0%, rgba(13,31,23,0.4) 60%, rgba(13,31,23,0.2) 100%); }
+.headerContent { position: relative; z-index: 2; max-width: 1280px; margin: 0 auto; padding: 0 2rem; width: 100%; }
+.headerLabel { display: inline-block; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-gold-300); margin-bottom: 0.75rem; }
+.headerTitle { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 4vw, 3.5rem); color: var(--color-ivory-100); margin-bottom: 0.75rem; }
+.headerSubtitle { font-size: 1.05rem; color: var(--color-ivory-300); max-width: 600px; line-height: 1.6; margin: 0; }
+.listSection { background: var(--color-ivory-100); }
+.filters { margin-bottom: 1rem; }
+.grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; }
+.empty { text-align: center; padding: 4rem 2rem; color: var(--color-coffee-300); }
+.empty span { font-size: 3rem; display: block; margin-bottom: 1rem; }
+@media (max-width: 768px) { .grid { grid-template-columns: 1fr; } .pageHeader { min-height: 40vh; } .headerContent { padding: 0 1rem; } }

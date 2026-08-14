@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Rest Area",
+    "category": "Parkir",
+    "address": "Desa Tempur",
+    "description": "Fasilitas Rest Area di Desa Tempur.",
+    "icon": "\ud83c\udd7f\ufe0f",
+    "coordinates": [-6.597263220554013, 110.88840290587342
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Poliklinik Kesehatan Desa (PKD)",
+    "category": "Kesehatan",
+    "address": "Desa Tempur",
+    "description": "Fasilitas Poliklinik Kesehatan Desa (PKD) di Desa Tempur.",
+    "icon": "\ud83c\udfe5",
+    "coordinates": [-6.598201403133227, 110.88823651761857
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Central Mart & ATM",
+    "category": "Belanja",
+    "address": "Desa Tempur",
+    "description": "Fasilitas Warung Kelontong & ATM Terdekat di Desa Tempur.",
+    "icon": "\ud83c\udfea",
+    "coordinates": [-6.597531831644892, 110.88844341271779
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ojek",
+    "category": "ojek",
+    "address": "Desa Tempur",
+    "description": "Fasilitas Ojek di Desa Tempur.",
+    "icon": "\ud83c\udfcd\ufe0f",
+    "coordinates": [-6.60082349079514, 110.88338568872446
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pick Up",
+    "category": "pick-up",
+    "address": "Desa Tempur",
+    "description": "Fasilitas Pick Up di Desa Tempur.",
+    "icon": "\ud83d\ude99",
+    "coordinates": [-6.600791805216036, 110.88332667924057
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jeep Wisata",
+    "category": "Transportasi",
+    "address": "Desa Tempur",
+    "description": "Fasilitas Jeep Wisata di Desa Tempur.",
+    "icon": "\ud83d\ude99",
+    "coordinates": [-6.600673063876274, 110.88327472833406
+    ]
+  }
+]
