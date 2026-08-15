@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Ojek",
-    "category": "ojek",
+    "category": "Transportasi",
     "address": "Desa Tempur",
     "description": "Fasilitas Ojek di Desa Tempur.",
     "icon": "\ud83c\udfcd\ufe0f",
@@ -42,10 +42,10 @@
   {
     "id": 5,
     "name": "Pick Up",
-    "category": "pick-up",
+    "category": "Transportasi",
     "address": "Desa Tempur",
     "description": "Fasilitas Pick Up di Desa Tempur.",
-    "icon": "\ud83d\ude99",
+    "icon": "\uD83D\uDEFB",
     "coordinates": [-6.600791805216036, 110.88332667924057
     ]
   },

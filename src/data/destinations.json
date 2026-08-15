@@ -22,15 +22,15 @@
     "id": 2,
     "name": "The New J-Cottage Coffee & Camping Ground",
     "slug": "the-new-j-cottage-coffee-camping-ground",
-    "zone": "Guagah",
+    "zone": "Karangrejo",
     "category": "kuliner-kopi",
     "shortDesc": "J-Cottage merupakan destinasi wisata di Desa Tempur yang memadukan coffee shop, cottage, dan camping ground dengan pemandangan indah Lereng Gunung Muria serta hamparan persawahan.",
     "description": [
       "J-Cottage merupakan destinasi wisata terpadu di Desa Tempur, Kecamatan Keling, Kabupaten Jepara yang memadukan konsep coffee shop, penginapan, dan camping ground. Beroperasi sejak 2019, tempat ini menjadi salah satu daya tarik utama bagi wisatawan yang ingin menikmati suasana alam pegunungan Lereng Gunung Muria serta panorama hamparan sawah yang asri. Desain kawasannya dirancang menyatu dengan lingkungan sekitar, sehingga hampir setiap sudut lokasi ini dapat dimanfaatkan sebagai area bersantai sekaligus spot foto yang estetik. Selain itu, lokasinya yang strategis di kawasan pegunungan menjadikan J-Cottage sebagai titik singgah yang ideal bagi para wisatawan yang sedang menjelajahi potensi wisata alam di kawasan Desa Tempur dan sekitarnya.",
-      "Pengunjung J-Cottage dapat menikmati beragam aktivitas wisata menarik, mulai dari sekadar bersantai dan bersantap di coffee shop, berkumpul bersama keluarga, hingga menyelengggarakan kegiatan outbound dan gathering. Bagi wisatawan yang ingin bermalam, J-Cottage menyediakan fasilitas penginapan berkonsep cottage, camping ground, fasilitas campervan, hingga pilihan glamping seperti tipe Glamping Safari yang mampu menampung hingga 6 orang. Pengunjung yang berencana untuk menginap atau menggunakan fasilitas berkemah disarankan untuk mengonfirmasi tarif serta ketersediaan unit terbaru secara langsung kepada pihak pengelola melalui media sosial resmi J-Cottage sebelum melakukan kunjungan."
+      "Pengunjung J-Cottage dapat menikmati beragam aktivitas wisata menarik, mulai dari sekadar bersantai dan bersantap di coffee shop, berkumpul bersama keluarga, hingga menyelengggarakan kegiatan outbound dan gathering. Bagi wisatawan yang ingin bermalam, J-Cottage menyediakan fasilitas penginapan berkonsep cottage, camping ground, fasilitas campervan, hingga pilihan glamping seperti tipe Glamping Safari yang mampu menampung hingga 6 orang. Pengunjung yang berencana untuk menginap atau menggunakan fasilitas berkemah disarankan untuk mengonfirmasi tarif serta ketersediaan unit terbaru secara langsung kepada pihak pengelola melalui media sosial resmi J-Cottage sebelum melakukan kunjungan. iwak kali entok, kopi arabika, kopi robusta"
     ],
     "image": "/images/destinations/j-cottage.png",
-    "gallery": [],
+    "gallery": ["/images/destinations/j-cottage/1.jpeg", "/images/destinations/j-cottage/2.jpeg", "/images/destinations/j-cottage/3.jpeg", "/images/destinations/j-cottage/4.jpeg", "/images/destinations/j-cottage/5.jpeg", "/images/destinations/j-cottage/6.jpeg", "/images/destinations/j-cottage/7.jpeg", "/images/destinations/j-cottage/8.jpeg", "/images/destinations/j-cottage/9.jpeg", "/images/destinations/j-cottage/10.jpeg", "/images/destinations/j-cottage/11.jpeg"],
     "hours": "Senin-Minggu: 09.00\u201321.00 WIB",
     "price": "Menu: Rp5.000\u2013Rp28.000 | Penginapan: mulai Rp250.000 | camping ground : mulai Rp150.000 ",
     "tips": "Waktu terbaik: Pagi (07.00\u201310.00) dan Sore (15.00\u201318.00). Bawa jaket, gunakan alas kaki nyaman, bawa uang tunai, dan jika ingin glamping/cottage sebaiknya reservasi lebih dulu.",
@@ -131,7 +131,7 @@
     "hours": "Buka Setiap Hari",
     "price": "Menyesuaikan",
     "tips": "",
-    "coordinates": [-6.597506116643645, 110.89184976640642
+    "coordinates": [-6.616199368271787, 110.77483452962757
     ],
     "featured": false
   },
