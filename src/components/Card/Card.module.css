@@ -180,6 +180,12 @@
   background: var(--color-forest-700);
 }
 
+.contactDisabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
 .distance {
   font-size: 0.75rem;
   color: var(--color-coffee-300);

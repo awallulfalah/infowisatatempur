@@ -107,9 +107,20 @@ export function AccommodationCard({ item }) {
           <span className={styles.cardMetaItem}>🛏️ {item.rooms} kamar</span>
         </div>
         <div className={styles.cardActions}>
-          <a href={`tel:${item.contact}`} className={styles.contactBtn}>
-            📞 Hubungi
-          </a>
+          {item.contact && item.contact !== '-' ? (
+            <a
+              href={`https://wa.me/${item.contact}?text=Halo,%20saya%20tertarik%20dengan%20${encodeURIComponent(item.name)}`}
+              className={styles.contactBtn}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              💬 Hubungi via WA
+            </a>
+          ) : (
+            <span className={`${styles.contactBtn} ${styles.contactDisabled}`}>
+              📞 Belum tersedia
+            </span>
+          )}
           <span className={styles.distance}>{item.distanceToCenter}</span>
         </div>
       </div>
