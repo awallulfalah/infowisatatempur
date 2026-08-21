@@ -16,7 +16,8 @@
     "tips": "",
     "coordinates": [-6.616204615925583, 110.89030653248312
     ],
-    "featured": true
+    "featured": true,
+    "menu": []
   },
   {
     "id": 2,
@@ -38,7 +39,8 @@
       -6.600707542441749,
       110.88342370173933
     ],
-    "featured": true
+    "featured": true,
+    "menu": ["/images/destinations/j-cottage/1.jpeg", "/images/destinations/j-cottage/2.jpeg", "/images/destinations/j-cottage/3.jpeg", "/images/destinations/j-cottage/4.jpeg", "/images/destinations/j-cottage/5.jpeg"]
   },
   {
     "id": 3,
@@ -57,7 +59,8 @@
     "tips": "",
     "coordinates": [-6.5909700480795825, 110.89875023735587
     ],
-    "featured": true
+    "featured": true,
+    "menu": []
   },
   {
     "id": 4,
@@ -76,7 +79,8 @@
     "tips": "",
     "coordinates": [-6.618778845061978, 110.88123186640195
     ],
-    "featured": false
+    "featured": false,
+    "menu": []
   },
   {
     "id": 5,
@@ -95,7 +99,8 @@
     "tips": "",
     "coordinates": [-6.587428215216436, 110.87305625797342
     ],
-    "featured": false
+    "featured": false,
+    "menu": []
   },
   {
     "id": 7,
@@ -114,7 +119,8 @@
     "tips": "",
     "coordinates": [-6.60536317731308, 110.86402498040741
     ],
-    "featured": false
+    "featured": false,
+    "menu": []
   },
   {
     "id": 8,
@@ -133,7 +139,8 @@
     "tips": "",
     "coordinates": [-6.616199368271787, 110.77483452962757
     ],
-    "featured": false
+    "featured": false,
+    "menu": []
   },
   {
     "id": 9,
@@ -152,7 +159,8 @@
     "tips": "",
     "coordinates": [-6.597577167472485, 110.89199923765378
     ],
-    "featured": false
+    "featured": false,
+    "menu": []
   },
   {
     "id": 10,
@@ -171,7 +179,8 @@
     "tips": "",
     "coordinates": [-6.596393163898101, 110.88921463187171
     ],
-    "featured": false
+    "featured": false,
+    "menu": []
   },
   {
     "id": 11,
@@ -190,7 +199,8 @@
     "tips": "",
     "coordinates": [-6.596874462367172, 110.88695547058198
     ],
-    "featured": false
+    "featured": false,
+    "menu": []
   },
   {
     "id": 12,
@@ -209,7 +219,8 @@
     "tips": "",
     "coordinates": [-6.5903130849905915, 110.90224565954571
     ],
-    "featured": false
+    "featured": false,
+    "menu": []
   },
   {
     "id": 15,
@@ -228,7 +239,8 @@
     "tips": "",
     "coordinates": [-6.601291824308924, 110.88264386466132
     ],
-    "featured": false
+    "featured": false,
+    "menu": []
   },
   {
     "id": 16,
@@ -247,6 +259,7 @@
     "tips": "",
     "coordinates": [-6.593675257810075, 110.90001697245188
     ],
-    "featured": false
+    "featured": false,
+    "menu": []
   }
 ]

@@ -53,6 +53,15 @@
 .navDirection { display: block; font-size: 0.75rem; color: var(--color-gold-500); font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.25rem; }
 .navName { font-family: 'Playfair Display', serif; font-size: 1rem; color: var(--color-forest-800); }
 
+/* Menu */
+.menuGrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1rem; }
+.menuCard {
+  border-radius: 12px; overflow: hidden; border: 1px solid var(--color-ivory-400);
+  background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.04); transition: transform 0.2s, box-shadow 0.2s;
+}
+.menuCard:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
+.menuImage { width: 100%; height: auto; display: block; }
+
 @media (max-width: 1024px) {
   .contentGrid { grid-template-columns: 1fr; }
   .sidebar { position: static; }

@@ -1,9 +1,15 @@
 'use client';
 
+import { useState, useEffect } from 'react';
 import styles from './ShareButton.module.css';
 
 export default function ShareButton({ title, url }) {
-  const shareUrl = typeof window !== 'undefined' ? url || window.location.href : '';
+  const [shareUrl, setShareUrl] = useState('');
+
+  useEffect(() => {
+    setShareUrl(url || window.location.href);
+  }, [url]);
+
   const shareTitle = title || 'Desa Wisata Tempur';
 
   const shareLinks = [

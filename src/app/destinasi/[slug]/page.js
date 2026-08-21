@@ -78,6 +78,27 @@ export default async function DestinationDetailPage({ params }) {
               <hr className="gold-line gold-line-left" />
               <Gallery images={dest.gallery} columns={2} />
 
+              {/* Menu */}
+              {dest.menu && dest.menu.length > 0 && (
+                <>
+                  <h2 className={styles.sectionTitle} style={{ marginTop: '3rem' }}>Menu</h2>
+                  <hr className="gold-line gold-line-left" />
+                  <div className={styles.menuGrid}>
+                    {dest.menu.map((menuImg, i) => (
+                      <div key={i} className={styles.menuCard}>
+                        <Image
+                          src={menuImg}
+                          alt={`Menu ${dest.name} - ${i + 1}`}
+                          width={600}
+                          height={800}
+                          className={styles.menuImage}
+                        />
+                      </div>
+                    ))}
+                  </div>
+                </>
+              )}
+
               {/* Share */}
               <div className={styles.shareSection}>
                 <ShareButton title={dest.name} />
